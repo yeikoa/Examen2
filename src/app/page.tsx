@@ -1,4 +1,4 @@
-export default function(){
+export default function Homepage(){
   return(
     <h1>Hola</h1>
   )
