@@ -17,9 +17,7 @@ const Navbar = () => {
 
   const routes = [
     { href: '/maintenance', name: 'GPT', subroutes: ['Reactive', 'Preventive'] },
-    {href: '/calendario', name: 'Calendario'},
-    { href: '/almacen', name: 'Almacen', subroutes: ['Registro', 'Lista'] },
-    { href: '/registro', name: 'Registro' },
+  
     { href: '/contacto', name: 'Contacto' },
   ];
 
