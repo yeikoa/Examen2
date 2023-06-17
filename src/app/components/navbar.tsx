@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between p-2" style={{ backgroundColor: 'rgb(53, 53, 53)' }}>
       <div className="flex items-center">
-        <Image src="/bus1.jpg" alt="Logo de la empresa" width={50} height={50} className='rounded-full' />
+        <Image src="/bot.jpg" alt="bot" width={50} height={50} className='rounded-full' />
         <Link href="/">
           <span className="ml-2 text-white text-lg font-bold cursor-pointer">Inicio</span>
         </Link>
